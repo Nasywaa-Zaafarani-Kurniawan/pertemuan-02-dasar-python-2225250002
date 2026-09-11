@@ -6,8 +6,8 @@ Deskripsi : Menghitung dx, dy, jarak Euclidean, dan titik tengah dari titik A da
 print ("Kalkulator Koordinat Dua Titik")
 
 x1 = float(input("x titik A: "))
-y1 = float(input("y titik A: "))
 x2 = float(input("x titik B: "))
+y1 = float(input("y titik A: "))
 y2 = float(input("y titik B: "))
 
 dx = x2 - x1
