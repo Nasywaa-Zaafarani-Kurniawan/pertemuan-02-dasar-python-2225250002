@@ -36,7 +36,11 @@ python latihan/02_persegi_panjang.py
 python latihan/03_konversi_suhu.py
 python latihan/04_nilai_akhir.py
 
+---
+
 ## Hasil Pengujian Tugas Utama
+
+---
 
 Kasus,"Titik 1 (x1​,y1​)","Titik 2 (x2​,y2​)",Jarak,Titik Tengah
 1,"(0,0)","(3,4)",5.00,"(1.50,2.00)"
