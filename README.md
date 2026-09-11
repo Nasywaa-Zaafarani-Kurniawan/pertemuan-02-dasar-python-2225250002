@@ -25,6 +25,15 @@ Repositori ini dibuat untuk memenuhi tugas praktikum Pertemuan 2 mata kuliah Alg
 
 ---
 
+## Hasil Pengujian Tugas Utama
+
+Kasus,"Titik 1 (x1​,y1​)","Titik 2 (x2​,y2​)",Jarak,Titik Tengah
+1,"(0,0)","(3,4)",5.00,"(1.50,2.00)"
+2,"(1,2)","(4,6)",5.00,"(2.50,4.00)"
+3,"(−2,3)","(4,−5)",10.00,"(1.00,−1.00)"
+
+---
+
 ## Cara Menjalankan
 
 Buka terminal di direktori utama repositori ini, lalu jalankan program utama menggunakan perintah berikut:
@@ -35,14 +44,3 @@ python latihan/01_biodata.py
 python latihan/02_persegi_panjang.py
 python latihan/03_konversi_suhu.py
 python latihan/04_nilai_akhir.py
-
----
-
-## Hasil Pengujian Tugas Utama
-
----
-
-Kasus,"Titik 1 (x1​,y1​)","Titik 2 (x2​,y2​)",Jarak,Titik Tengah
-1,"(0,0)","(3,4)",5.00,"(1.50,2.00)"
-2,"(1,2)","(4,6)",5.00,"(2.50,4.00)"
-3,"(−2,3)","(4,−5)",10.00,"(1.00,−1.00)"
