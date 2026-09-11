@@ -47,3 +47,17 @@ python latihan/01_biodata.py
 python latihan/02_persegi_panjang.py
 python latihan/03_konversi_suhu.py
 python latihan/04_nilai_akhir.py
+
+
+## Refleksi Singkat dan Sumber
+
+### Refleksi
+Dalam praktikum ini, saya mempelajari konsep dasar pemrosesan *input* dan *output* pada Python, casting tipe data, serta penggunaan *f-string* untuk format desimal (`:.2f`). 
+
+Hal yang paling mudah saya pahami adalah logika rumus matematikanya (seperti penjumlahan, pengurangan, perkalian, dan pembagian). Namun, kendala yang sering saya hadapi adalah penulisan sintaks/perintah Python (seperti lupa nama fungsi bawaan) serta kesalahan ketik (*typo*) pada penulisan nama variabel. Ketika menemukan kendala atau kode yang belum dipahami, saya dibantu oleh AI Gemini untuk menjelaskannya kembali.
+
+### Sumber yang Digunakan
+1. Dokumentasi Resmi Python (*f-string formatting* & modul matematika): [docs.python.org](https://docs.python.org/3/)
+2. Modul Praktikum Algoritma dan Pemrograman Pertemuan 02.
+3. Channel YouTube **Bro Code** (Materi dasar pemrograman Python).
+4. Bantuan Asisten AI Gemini (untuk penjelasan konsep, solusi kendala kode, dan bantuan penulisan dokumen).
