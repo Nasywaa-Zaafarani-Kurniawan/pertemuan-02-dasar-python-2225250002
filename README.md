@@ -27,10 +27,13 @@ Repositori ini dibuat untuk memenuhi tugas praktikum Pertemuan 2 mata kuliah Alg
 
 ## Hasil Pengujian Tugas Utama
 
-Kasus,"Titik 1 (x1​,y1​)","Titik 2 (x2​,y2​)",Jarak,Titik Tengah
-1,"(0,0)","(3,4)",5.00,"(1.50,2.00)"
-2,"(1,2)","(4,6)",5.00,"(2.50,4.00)"
-3,"(−2,3)","(4,−5)",10.00,"(1.00,−1.00)"
+## Tabel Hasil Pengujian (`kalkulator_koordinat.py`)
+
+| Kasus | Titik 1 (x1, y1) | Titik 2 (x2, y2) | Jarak | Titik Tengah |
+| :---: | :---: | :---: | :---: | :---: |
+| 1 | (0, 0) | (3, 4) | 5.00 | (1.50, 2.00) |
+| 2 | (1, 2) | (4, 6) | 5.00 | (2.50, 4.00) |
+| 3 | (-2, 3) | (4, -5) | 10.00 | (1.00, -1.00) |
 
 ---
 
